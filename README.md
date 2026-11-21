@@ -2,7 +2,7 @@
 
 **Pat — a provenance-complete, geometric smart-controller agent.**
 
-Pat is a zero-weights language creature: no neural network, no
+Pat is a zero-weights language system: no neural network, no
 gradients, no API behind the curtain. Every organ is count geometry
 and exact gates over pinned artifacts; every answer carries a
 receipt; everything Pat cannot certify, Pat refuses — by name.
